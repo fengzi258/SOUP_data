@@ -2,9 +2,7 @@
     "type":"FeatureCollection",
     "features":[
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":0,
                 "mag":62.0
@@ -19,9 +17,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":1,
                 "mag":4.0
@@ -36,9 +32,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":2,
                 "mag":30.0
@@ -53,9 +47,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":3,
                 "mag":0.0
@@ -70,9 +62,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":4,
                 "mag":40.0
@@ -87,9 +77,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":5,
                 "mag":2.0
@@ -104,9 +92,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":6,
                 "mag":14.0
@@ -121,9 +107,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":7,
                 "mag":13.0
@@ -138,9 +122,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":8,
                 "mag":2.0
@@ -155,9 +137,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":9,
                 "mag":15.0
@@ -172,9 +152,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":10,
                 "mag":2.0
@@ -189,9 +167,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":11,
                 "mag":0.0
@@ -206,9 +182,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":12,
                 "mag":0.0
@@ -223,9 +197,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":13,
                 "mag":71.0
@@ -240,9 +212,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":14,
                 "mag":8.0
@@ -257,9 +227,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":15,
                 "mag":0.0
@@ -274,9 +242,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":16,
                 "mag":8.0
@@ -291,9 +257,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":17,
                 "mag":1.0
@@ -308,9 +272,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":18,
                 "mag":0.0
@@ -325,9 +287,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":19,
                 "mag":11.0
@@ -342,9 +302,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":20,
                 "mag":0.0
@@ -359,9 +317,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":21,
                 "mag":13.0
@@ -376,9 +332,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":22,
                 "mag":5.0
@@ -393,9 +347,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":23,
                 "mag":0.0
@@ -410,9 +362,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":24,
                 "mag":18.0
@@ -427,9 +377,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":25,
                 "mag":0.0
@@ -444,9 +392,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":26,
                 "mag":34.0
@@ -461,9 +407,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":27,
                 "mag":18.0
@@ -478,9 +422,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":28,
                 "mag":8.0
@@ -495,9 +437,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":29,
                 "mag":6.0
@@ -512,9 +452,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":30,
                 "mag":0.0
@@ -529,9 +467,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":31,
                 "mag":2.0
@@ -546,9 +482,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":32,
                 "mag":7.0
@@ -563,9 +497,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":33,
                 "mag":5.0
@@ -580,9 +512,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":34,
                 "mag":46.0
@@ -597,9 +527,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":35,
                 "mag":0.0
@@ -614,9 +542,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":36,
                 "mag":21.0
@@ -631,9 +557,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":37,
                 "mag":1.0
@@ -648,9 +572,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":38,
                 "mag":19.0
@@ -665,9 +587,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":39,
                 "mag":0.0
@@ -682,9 +602,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":40,
                 "mag":0.0
@@ -699,9 +617,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":41,
                 "mag":35.0
@@ -716,9 +632,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":42,
                 "mag":0.0
@@ -733,9 +647,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":43,
                 "mag":55.0
@@ -750,9 +662,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":44,
                 "mag":39.0
@@ -767,9 +677,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":45,
                 "mag":0.0
@@ -784,9 +692,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":46,
                 "mag":2.0
@@ -801,9 +707,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":47,
                 "mag":2.0
@@ -818,9 +722,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":48,
                 "mag":19.0
@@ -835,9 +737,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":49,
                 "mag":39.0
@@ -852,9 +752,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":50,
                 "mag":16.0
@@ -869,9 +767,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":51,
                 "mag":29.0
@@ -886,9 +782,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":52,
                 "mag":31.0
@@ -903,9 +797,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":53,
                 "mag":0.0
@@ -920,9 +812,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":54,
                 "mag":0.0
@@ -937,9 +827,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":55,
                 "mag":0.0
@@ -954,9 +842,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":56,
                 "mag":0.0
@@ -971,9 +857,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":57,
                 "mag":15.0
@@ -988,9 +872,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":58,
                 "mag":3.0
@@ -1005,9 +887,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":59,
                 "mag":23.0
@@ -1022,9 +902,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":60,
                 "mag":13.0
@@ -1039,9 +917,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":61,
                 "mag":37.0
@@ -1056,9 +932,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":62,
                 "mag":0.0
@@ -1073,9 +947,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":63,
                 "mag":11.0
@@ -1090,9 +962,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":64,
                 "mag":54.0
@@ -1107,9 +977,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":65,
                 "mag":11.0
@@ -1124,9 +992,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":66,
                 "mag":57.0
@@ -1141,9 +1007,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":67,
                 "mag":34.0
@@ -1158,9 +1022,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":68,
                 "mag":0.0
@@ -1175,9 +1037,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":69,
                 "mag":10.0
@@ -1192,9 +1052,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":70,
                 "mag":8.0
@@ -1209,9 +1067,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":71,
                 "mag":13.0
@@ -1226,9 +1082,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":72,
                 "mag":6.0
@@ -1243,9 +1097,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":73,
                 "mag":30.0
@@ -1260,9 +1112,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":74,
                 "mag":32.0
@@ -1277,9 +1127,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":75,
                 "mag":4.0
@@ -1294,9 +1142,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":76,
                 "mag":0.0
@@ -1311,9 +1157,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":77,
                 "mag":1.0
@@ -1328,9 +1172,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":78,
                 "mag":0.0
@@ -1345,9 +1187,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":79,
                 "mag":0.0
@@ -1362,9 +1202,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":80,
                 "mag":1.0
@@ -1379,9 +1217,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":81,
                 "mag":0.0
@@ -1396,9 +1232,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":82,
                 "mag":44.0
@@ -1413,9 +1247,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":83,
                 "mag":0.0
@@ -1430,9 +1262,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":84,
                 "mag":68.0
@@ -1447,9 +1277,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":85,
                 "mag":15.0
@@ -1464,9 +1292,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":86,
                 "mag":90.0
@@ -1481,9 +1307,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":87,
                 "mag":46.0
@@ -1498,9 +1322,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":88,
                 "mag":0.0
@@ -1515,9 +1337,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":89,
                 "mag":1.0
@@ -1532,9 +1352,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":90,
                 "mag":3.0
@@ -1549,9 +1367,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":91,
                 "mag":0.0
@@ -1566,9 +1382,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":92,
                 "mag":38.0
@@ -1583,9 +1397,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":93,
                 "mag":57.0
@@ -1600,9 +1412,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":94,
                 "mag":0.0
@@ -1617,9 +1427,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":95,
                 "mag":1.0
@@ -1634,9 +1442,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":96,
                 "mag":45.0
@@ -1651,9 +1457,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":97,
                 "mag":8.0
@@ -1668,9 +1472,7 @@
             }
         },
         {
-            "type":[
-                "Feature"
-            ],
+            "type":"Feature",
             "properties":{
                 "id":98,
                 "mag":0.0
